@@ -1,0 +1,25 @@
+{
+  "name": "es2015-demos",
+  "version": "1.0.0",
+  "description": "Used for JavaScript ES2015 Demos",
+  "author": "Dan Wahlin",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "systemjs": "0.20.17"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-typescript": "^5.0.0",
+    "gulp-uglify": "^3.0.1",
+    "lite-server": "^2.4.0",
+    "typescript": "^3.2.2"
+  }
+}
