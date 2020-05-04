@@ -1,2 +1,4 @@
-# Projects-Angular_DanWahlin
-Angular2+ projects from DanWahlin
+# Angular Projects (DanWahlin) learning playground
+
+Angular2+ Projects learning<br/>
+By Jin Wang
